@@ -1,0 +1,2 @@
+# dummy
+A "dummy" repository.
